@@ -1,0 +1,7 @@
+{
+    "somesong": {
+        "sounds": [
+            "custom_music:records/somesong"
+        ]
+    }
+}
