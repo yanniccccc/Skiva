@@ -1,0 +1,8 @@
+{
+    "comparator_output": 12,
+    "description": "the_weekend_whip",
+    "length_in_seconds": 210.36,
+    "sound_event": {
+        "sound_id": "custom_music:the_weekend_whip"
+    }
+}

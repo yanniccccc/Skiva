@@ -1,0 +1,17 @@
+{
+    "somesong": {
+        "sounds": [
+            "custom_music:records/somesong"
+        ]
+    },
+    "nullkommaneun-ssio": {
+        "sounds": [
+            "custom_music:records/nullkommaneun-ssio"
+        ]
+    },
+    "the_weekend_whip": {
+        "sounds": [
+            "custom_music:records/the_weekend_whip"
+        ]
+    }
+}

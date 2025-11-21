@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": "A cool custom song",
+  "length_in_seconds": 208.45733333333334,
+  "sound_event": {
+    "sound_id": "custom_music:somesong"
+  }
+}
